@@ -20,7 +20,7 @@
               class="appearance-none mb-36 bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
               type="text"
               name="email"
-              placeholder="your@email.com"
+              placeholder="your@email.com please "
               aria-label="Email address"
             />
 
